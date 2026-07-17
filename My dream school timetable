@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My Dream School Timetable</title>
+</head>
+<body>
+ 
+  <h1>My Dream School Timetable</h1>
+ 
+  <p>
+    This webpage shows my dream school timetable, favourite subjects, school activities,
+    and useful learning links.
+  </p>
+ 
+  <h2>Useful Learning Links</h2>
+ 
+  <p>
+    Explore fun history topics:
+    <a href="https:www.history.com" target="_blank">History Website</a>
+  </p>
+ 
+  <p>
+    Learn more about the White house here:
+    <a href="https:www.whitehousehistory.org" target="_blank">whitehousehistory.org</a>
+  </p>
+ 
+  <h2>My Morning School Routine</h2>
+ 
+  <ol>
+    <li>Wake up early and get ready.</li>
+    <li>Eat breakfast.</li>
+    <li>Sit in Car. </li>
+    <li>Reach school on time.</li>
+    <li>Go to first period class.</li>
+  </ol>
+ 
+  <h2>Things I Want in My Dream School</h2>
+ 
+  <ul>
+    <li>Smart classrooms</li>
+    <li>Learn while playing</li>
+    <li>Sports ground</li>
+    <li>Going Outside </li>
+    <li>Creative classroom</li>
+  </ul>
+ 
+  <h2>School Subject Descriptions</h2>
+ 
+  <dl>
+    <dt>Maths</dt>
+    <dd>A subject where we learn numbers, patterns, shapes, and problem-solving.</dd>
+ 
+    <dt>Public Speaking</dt>
+    <dd>A subject where we learn how to speak in front of people.</dd>
+ 
+    <dt>Coding</dt>
+    <dd>A subject where we learn how to create games, apps, websites, and animations.</dd>
+ 
+    <dt>Art</dt>
+    <dd>A subject where we express our ideas through drawing, colouring, and design.</dd>
+  </dl>
+ 
+  <h2>My Dream Timetable</h2>
+ 
+  <table border="3">
+    <tr>
+      <th>Day</th>
+      <th>Period 1</th>
+      <th>Period 2</th>
+      <th>Period 3</th>
+      <th>Period 4</th>
+    </tr>
+ 
+    <tr>
+      <td>Monday</td>
+      <td>Math</td>
+      <td>Public speaking</td>
+      <td>Debate</td>
+      <td>Sports</td>
+    </tr>
+ 
+    <tr>
+      <td>Tuesday</td>
+      <td>English</td>
+      <td>Math</td>
+      <td>Art</td>
+      <td>Music</td>
+    </tr>
+ 
+    <tr>
+      <td>Wednesday</td>
+      <td>Engineering</td>
+      <td>Coding</td>
+      <td>Recess</td>
+      <td>Sports</td>
+    </tr>
+ 
+    <tr>
+      <td>Thursday</td>
+      <td>History</td>
+      <td>Debate</td>
+      <td>Mathematics</td>
+      <td>Art</td>
+    </tr>
+ 
+    <tr>
+      <td>Friday</td>
+      <td>Free time</td>
+      <td>Science</td>
+      <td>Public Speaking</td>
+      <td>Games</td>
+    </tr>
+  </table>
+ 
+  <h2>My Favourite School Activities</h2>
+ 
+  <table border="2">
+    <tr>
+      <th>Activity</th>
+      <th>Where It Happens</th>
+      <th>Why I Like It</th>
+    </tr>
+ 
+    <tr>
+      <td>Public Speaking Club</td>
+      <td>Auditorium</td>
+      <td>I can speak out.</td>
+    </tr>
+ 
+    <tr>
+      <td>Tenis</td>
+      <td>Sports Ground</td>
+      <td>It keeps me active and happy.</td>
+    </tr>
+ 
+    <tr>
+      <td>Art Class</td>
+      <td>Art Room</td>
+      <td>I can draw and show my creativity.</td>
+    </tr>
+ 
+    <tr>
+      <td>Reading Time</td>
+      <td>Library</td>
+      <td>I can read new stories and learn new words.</td>
+    </tr>
+  </table>
+ 
+</body>
+</html>
